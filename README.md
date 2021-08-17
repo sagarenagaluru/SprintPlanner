@@ -1,2 +1,2 @@
-# scrumplan
+# Sprint Planner
 To give flexibility to scrum master to plan and publish scrum board
